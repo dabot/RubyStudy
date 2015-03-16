@@ -9,6 +9,8 @@ gem install fastercsv
 ・ruby-mysql v2.9.13
 gem install ruby-mysql
 
+■MySQLバージョン
+5.5.42
 
 ■ DB作成
 CREATE DATABASE ruby_study DEFAULT CHARACTER SET utf8;
